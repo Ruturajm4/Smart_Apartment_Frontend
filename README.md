@@ -1,7 +1,7 @@
 # Smart Apartment Frontend (React.js)
 
 This is the **React.js frontend** for the Smart Apartment project.  
-It provides CRUD functionality for **Rooms** and **Sensors** and consumes the backend APIs you have created.
+It provides CRUD functionality for **Rooms** and **Sensors** and consumes the backend APIs.
 
 ---
 
